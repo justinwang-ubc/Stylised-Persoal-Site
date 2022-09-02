@@ -1,2 +1,2 @@
 # Stylised-Persoal-Site
-my css stylised personal sute 
+my css stylised personal site
